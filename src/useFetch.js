@@ -30,4 +30,4 @@ const useFetch = (urlParams) => {
   return { isLoading, error, data }
 }
 
-export default useFetch
+export default useFetch;
